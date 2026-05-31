@@ -1,3 +1,4 @@
+mermaid
 classDiagram
     class Point3D {
         +double X
